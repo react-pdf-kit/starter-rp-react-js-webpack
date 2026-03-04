@@ -6,7 +6,7 @@ function App() {
   return (
     <RPConfig licenseKey="" workerUrl={'/pdf.worker.min.mjs'}>
       <div className="container">
-        <h1>React PDF Starter Toolkit in React.js, JavaScript and Webpack</h1>
+        <h1>React PDF Kit Starter Toolkit in React.js, JavaScript and Webpack</h1>
         <br />
         <h2>Default Toolbar</h2>
         <AppPDFViewer />
