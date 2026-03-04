@@ -133,11 +133,11 @@ For more examples, please refer to the `src/App.jsx` file in this repository:
 
 _Remark: If you would like more examples, feel free open an issue._
 
-For more configurations, please check the [documentation](https://docs.react-pdf.dev) site.
+For more configurations, please check the [documentation](https://docs.react-pdf-kit.dev) site.
 
 ## Meta
-- Homepage: [https://www.react-pdf.dev](https://www.react-pdf.dev)
-- Docs: [https://docs.react-pdf.dev](https://docs.react-pdf.dev)
+- Homepage: [https://www.react-pdf-kit.dev](https://www.react-pdf-kit.dev)
+- Docs: [https://docs.react-pdf-kit.dev](https://docs.react-pdf-kit.dev)
 
 ---
 
