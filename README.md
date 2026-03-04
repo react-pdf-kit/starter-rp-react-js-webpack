@@ -1,6 +1,6 @@
 # React PDF Kit Starter Toolkit in React.js, JavaScript and Webpack
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/react-pdf-dev/starter-rp-react-js-webpack)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/react-pdf-kit/starter-rp-react-js-webpack)
 
 Welcome to the React PDF Kit Starter Toolkit! This repository provides a comprehensive guide on integrating React PDF with React, JavaScript and Webpack. It showcases how React PDF can be integrated and rendered as part of a React.js project.
 
@@ -36,7 +36,7 @@ Welcome to the React PDF Kit Starter Toolkit! This repository provides a compreh
 
 ### Running the Example Project
 
-This repository includes an example project to demonstrate React PDF Kit in action.
+This repository includes an example project to demonstrate the React PDF Kit in action.
 
 1. **Start the Development Server**: Use the following command to start the development server
 
@@ -70,7 +70,7 @@ export const AppPDFViewer = (props) => {
 
   return (
     <RPProvider
-      src="https://cdn.codewithmosh.com/image/upload/v1721763853/guides/web-roadmap.pdf"
+      src="https://raw.githubusercontent.com/mozilla/pdf.js/ba2edeae/web/compressed.tracemonkey-pldi-09.pdf"
       {...providerProps}
     >
       {showToolbar ? (
@@ -98,7 +98,7 @@ function App() {
   return (
     <RPConfig licenseKey="">
       <div className="container">
-        <h1>React PDF Starter Toolkit in React.js, JavaScript and Webpack</h1>
+        <h1>React PDF Kit Starter Toolkit in React.js, JavaScript and Webpack</h1>
         <br />
         <h2>Default Toolbar</h2>
         <AppPDFViewer />
@@ -133,11 +133,11 @@ For more examples, please refer to the `src/App.jsx` file in this repository:
 
 _Remark: If you would like more examples, feel free open an issue._
 
-For more configurations, please check the [documentation](https://docs.react-pdf.dev) site.
+For more configurations, please check the [documentation](https://docs.react-pdf-kit.dev) site.
 
 ## Meta
-- Homepage: [https://www.react-pdf.dev](https://www.react-pdf.dev)
-- Docs: [https://docs.react-pdf.dev](https://docs.react-pdf.dev)
+- Homepage: [https://www.react-pdf.dev](https://www.react-pdf-kit.dev)
+- Docs: [https://docs.react-pdf.dev](https://docs.react-pdf-kit.dev)
 
 ---
 
