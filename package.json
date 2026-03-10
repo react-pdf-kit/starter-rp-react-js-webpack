@@ -31,14 +31,17 @@
     "react-dom": "18.2.0"
   },
   "overrides": {
-    "pdfjs-dist": "5.4.624"
+    "pdfjs-dist": "5.4.624",
+    "serialize-javascript": "^7.0.3"
   },
   "pnpm": {
     "overrides": {
-      "pdfjs-dist": "5.4.624"
+      "pdfjs-dist": "5.4.624",
+      "serialize-javascript": "^7.0.3"
     }
   },
   "resolutions": {
-    "pdfjs-dist": "5.4.624"
+    "pdfjs-dist": "5.4.624",
+    "serialize-javascript": "^7.0.3"
   }
 }
